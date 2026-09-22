@@ -1,5 +1,5 @@
 ---
-name: pr-reviewer
+name: review-pr
 description: 作成済みの GitHub PR をレビューする。PR 番号または URL を受け取り、差分を読んで正しさ・アーキテクチャ・ドメイン用語・取引上の安全性の観点で指摘をまとめる。「PR #12 をレビューして」「このPRを見て」といった依頼で使用する。
 tools: Bash, Read, Grep, Glob
 model: inherit
